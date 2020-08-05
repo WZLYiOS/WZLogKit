@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name             = 'WZLogKit'
   s.version          = '1.0.0'
-  s.summary          = '我主良缘日志组件'
+  s.summary          = '我主良缘日志组件 '
 
   s.description      = <<-DESC
     我主良缘日志组件
